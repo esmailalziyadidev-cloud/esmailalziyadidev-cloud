@@ -1,7 +1,12 @@
 <div align="center">
   <h1>Hi there! 👋</h1>
-  <p><h2>I'm Esmail Al-Ziyadi</b> — Flutter Developer 👨‍💻</p>
+  <h2>I'm Esmail Al-Ziyadi — Flutter Developer 👨‍💻</h2>
 </div>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder animation" width="400">
+</p>
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder animation" width="400">

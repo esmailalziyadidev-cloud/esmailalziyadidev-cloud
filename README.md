@@ -16,23 +16,24 @@
 <h3>🧰 Technologies & Tools</h3>
 <p>A modern stack for building <b>mobile apps</b>, <b>backend systems</b>, and <b>UI/UX designs</b> ✨</p>
 
-<!-- Responsive Icons Grid -->
-<div style="display:flex; flex-wrap:wrap; justify-content:center; gap:15px;">
+<!-- Professional Responsive Icons Grid -->
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 18px; padding: 10px 0;">
 
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="48" height="48">
-  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="48" height="48">
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="48" height="48">
-  <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" width="48" height="48">
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="48" height="48">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="48" height="48">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48" height="48">
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="48" height="48">
-  <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" width="48" height="48">
-  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" width="56" height="48">
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="48" height="48">
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" style="width:45px; height:45px;">
+  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" style="width:45px; height:45px;">
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" style="width:45px; height:45px;">
+  <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" style="width:45px; height:45px;">
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" style="width:45px; height:45px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="width:45px; height:45px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="width:45px; height:45px;">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="width:45px; height:45px;">
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" style="width:45px; height:45px;">
+  <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" style="width:45px; height:45px;">
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" style="width:50px; height:45px;">
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="width:45px; height:45px;">
 
 </div>
+
 
 <hr>
 
